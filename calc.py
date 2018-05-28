@@ -1,4 +1,4 @@
-print("Calcolatrice\nby Matteo Diblas\n")
+print("Calcolatrice\nby alex3025\n")
 save_result = "no"
 def result_show():
 	if save_result == "si":
